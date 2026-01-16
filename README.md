@@ -5,7 +5,7 @@ AWS & Cloud Enthusiast | Tech Trainer | Full-Stack Developer
 Focused on building scalable, cloud-backed, and production-ready solutions
 
 ## About Me
--I’m a passionate developer who enjoys designing real-world systems, simplifying complex cloud concepts, and building impactful applications.
+- I’m a passionate developer who enjoys designing real-world systems, simplifying complex cloud concepts, and building impactful applications.
 
 **Currently Working On**
 - Cloud & full-stack projects using AWS, Node.js, MongoDB, React, React Native
